@@ -49,6 +49,11 @@ Essa página exibe uma lista de notícias obtidas de um servidor ou banco de dad
 
 ![image](https://github.com/user-attachments/assets/f355289e-868d-4aa2-bb3f-64136b2a814d)
 
+![image](https://github.com/user-attachments/assets/8e31b193-18bb-4a9f-b323-e3b26a7d0d95)
+
+![image](https://github.com/user-attachments/assets/3727743d-ab65-4900-a98b-0ac5e106becf)
+
+![image](https://github.com/user-attachments/assets/3fc37186-5e14-4353-94dc-099a864214dd)
 
 ## English Version
 
@@ -95,3 +100,9 @@ This page displays a list of news articles fetched from a server or database. It
 ![image](https://github.com/user-attachments/assets/aeb8c1a4-736d-46a9-bc5d-4cf8ad25fd6e)
 
 ![image](https://github.com/user-attachments/assets/099c44d2-c88e-4a2d-b085-9d3555730954)
+
+![image](https://github.com/user-attachments/assets/10c4acef-8044-4ee8-9e0e-a317f9cdda2d)
+
+![image](https://github.com/user-attachments/assets/078aab28-df6b-4314-afff-bfdca527b606)
+
+![image](https://github.com/user-attachments/assets/45ccafca-5d09-4c18-a807-a5333846b925)
