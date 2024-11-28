@@ -43,6 +43,11 @@ Essa página exibe uma lista de notícias obtidas de um servidor ou banco de dad
 
 ## Algumas Capturas de Tela
 
+![image](https://github.com/user-attachments/assets/97890076-582c-4f9f-906e-caa09bb990f0)
+
+![image](https://github.com/user-attachments/assets/13ae373a-be8e-4832-bc5c-b81ca32dbef2)
+
+![image](https://github.com/user-attachments/assets/f355289e-868d-4aa2-bb3f-64136b2a814d)
 
 
 ## English Version
@@ -84,3 +89,9 @@ This page displays a list of news articles fetched from a server or database. It
 - User: Stores logged-in user information, allowing global access after login.
 
 ## Some PrintScreen
+
+![image](https://github.com/user-attachments/assets/2ccd3df4-5455-4e7d-b245-d1b5a088f0a2)
+
+![image](https://github.com/user-attachments/assets/aeb8c1a4-736d-46a9-bc5d-4cf8ad25fd6e)
+
+![image](https://github.com/user-attachments/assets/099c44d2-c88e-4a2d-b085-9d3555730954)
